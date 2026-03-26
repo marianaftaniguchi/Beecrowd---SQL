@@ -9,16 +9,16 @@
 </tr>
 </thead>
 <tbody>
-<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2602_en.html'>Pares entre cinco números
+<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2602_en.html'>Select Básico
 </a></td><td><a href='src/2602'>2602</a></td></tr>
   
-<tr><td>1</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2603_en.html'>Pares entre cinco números
+<tr><td>1</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2603_en.html'>Endereço dos Clientes
 </a></td><td><a href='src/2603'>2603</a></td></tr>
 
-<tr><td>2</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2604_en.html'>Pares entre cinco números
+<tr><td>2</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2604_en.html'>Menores que 10 ou maiores que 100
 </a></td><td><a href='src/2604'>2604</a></td></tr>
 
-<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2605_en.html'>Pares entre cinco números
+<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2605_en.html'>Representantes Executivos
 </a></td><td><a href='src/2605'>2605</a></td></tr>
 
 </tbody>
