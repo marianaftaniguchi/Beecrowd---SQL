@@ -27,5 +27,8 @@
 <tr><td>1</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2607_en.html'>Cidades em Ordem Alfabética
 </a></td><td><a href='src/2607'>2607</a></td></tr>
 
+<tr><td>1</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2608_en.html'>Maior e Menor preço
+</a></td><td><a href='src/2608'>2608</a></td></tr>
+
 </tbody>
 </table>
