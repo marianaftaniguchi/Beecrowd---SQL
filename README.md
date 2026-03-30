@@ -30,5 +30,11 @@
 <tr><td>1</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2608_en.html'>Maior e Menor preço
 </a></td><td><a href='src/2608'>2608</a></td></tr>
 
+<tr><td>3</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2610_en.html'>Valor Médio dos Produtos
+</a></td><td><a href='src/2610'>2610</a></td></tr>
+
+<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2611_en.html'>Valor Médio dos Produtos
+</a></td><td><a href='src/2611'>2611</a></td></tr>
+
 </tbody>
 </table>
